@@ -1,0 +1,17 @@
+# Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# Local environment
+*.log
+*.pem
+*.ssh
+*.key
+*.env
+
+# OS / Editor files
+.DS_Store
+.idea/
+.vscode/
